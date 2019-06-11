@@ -1,0 +1,9 @@
+body {
+    font-family: 'Permanent Marker', cursive;
+    background-color: skyblue;
+    padding: 1rem;
+}
+
+li {
+    list-style: none;
+}
